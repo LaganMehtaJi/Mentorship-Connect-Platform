@@ -1,9 +1,8 @@
-import Hero from "./Hero";
-
+import Login from "./Login";
 function App() {
   return (
     <>
-   <Hero/>
+   <Login/>
     </>
   );
 }
